@@ -3,7 +3,10 @@ name: 🐍 Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight UTC
-  workflow_dispatch: # allow manual run
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 THIS gives permission to push the output branch
 
 jobs:
   generate:
