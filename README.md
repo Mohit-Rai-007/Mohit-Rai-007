@@ -17,6 +17,14 @@
 
 ---
 
+## ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 ## 🔥 About Me
 
 - 🔭 I’m currently working on **MERN stack**
@@ -51,8 +59,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohit-rai-007" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mohit-rai-007&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 
@@ -72,14 +81,6 @@
 
 ---
 
-## ✨ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -93,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/mohit-rai-007/mohit-rai-007/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/mohit-rai-007/mohit-rai-007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
