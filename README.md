@@ -43,4 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-rai-007&show_icons=true&locale=en" alt="mohit-rai-007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rai-007&" alt="mohit-rai-007" /></p>
+<img align="center" src="https://streak-stats.demolab.com/?user=mohit-rai-007" alt="GitHub Streak Stats" />
+
