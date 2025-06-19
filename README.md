@@ -17,6 +17,7 @@
 
 ---
 
+
 ## ✨ Quote of the Day
 
 <p align="center">
@@ -48,9 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohit-rai-007&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-rai-007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -84,7 +82,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohit rai" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohiit-codes/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/mohitrai007" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://instagram.com/mohit_rai_007" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://leetcode.com/mohit_rai_07" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
