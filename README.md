@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-rai-007&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-rai-007&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=24f3004415&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24f3004415&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohit-rai-007&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=24f3004415&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 
@@ -66,7 +66,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-rai-007&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24f3004415&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit-rai-007&theme=gruvbox&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=24f3004415&theme=gruvbox&column=7" />
 </p>
 
 ---
@@ -92,8 +92,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/mohit-rai-007/mohit-rai-007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/24f3004415/24f3004415/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
